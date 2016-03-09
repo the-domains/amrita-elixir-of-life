@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Amrita ~ Elixir of Life]]></title>
+        <description><![CDATA[Amrita ~ Elixir of Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 04:57:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Medicine comes to English from the Latin, "medicina" and refers to the art practiced by the "medicus" or physician. The Latin word itself may well derive originally from the root "media" referring to a middle way, or balance, since in classical Greek medicine (that which was known and practiced in the Roman world) health was a matter of balance, and disease was understood as an imbalance of the body. This balance could be restored by a "medicus" who would use herbs or prepared drugs to do so.</p>]]></description>
+            <link>undefinedmedicine-comes-to-english-from-the-latin-medicina-and-ref/index.html</link>
+            <guid isPermaLink="false">513ab825-f808-485b-a9e0-318eb62df75d</guid>
+            <pubDate>Wed, 09 Mar 2016 04:56:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
